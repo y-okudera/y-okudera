@@ -1,14 +1,9 @@
 ### Hi, I am Yuki 👋
-- 🔭 I’m currently working on iOS app development with Swift
-- 🌱 I’m currently learning Kotlin for Android apps
 
 [![Github](https://img.shields.io/github/followers/y-okudera?label=Follow&style=social)](https://github.com/y-okudera)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/y-okudera/posts.svg)](http://qiita.com/y-okudera)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/y-okudera/contributions.svg)](http://qiita.com/y-okudera)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/y-okudera/followers.svg)](http://qiita.com/y-okudera)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-okudera)
-[![y-okudera's github stats](https://github-readme-stats.vercel.app/api?username=y-okudera)](https://github.com/y-okudera/github-readme-stats)
 
 <!--
 **y-okudera/y-okudera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
