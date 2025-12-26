@@ -1,5 +1,3 @@
-### Hi, I am Yuki 👋
-
 [![Github](https://img.shields.io/github/followers/y-okudera?label=Follow&style=social)](https://github.com/y-okudera)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/y-okudera/posts.svg)](http://qiita.com/y-okudera)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/y-okudera/contributions.svg)](http://qiita.com/y-okudera)
